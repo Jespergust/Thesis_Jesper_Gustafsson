@@ -34,3 +34,8 @@ We then shift to the Extension research on variable selection and macroeconomic 
 
 8. Then the ececonomic value model results (Table 9 and 21) can be obtained from Economic_value.R
 
+Reference:
+Bollerslev, T., Tauchen, G. & Zhou, H. (2009). Expected stock returns and variance risk premia.
+The Review of Financial Studies, 22 (11), 4463–4492. Retrieved from
+https://academic.oup.com/rfs/article-abstract/22/11/4463/1565787 doi:
+10.1093/rfs/hhp008
